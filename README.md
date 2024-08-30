@@ -1,5 +1,7 @@
 # Sistema de Gestión de Inventario en Haskell
 
+# Integrante: Tomas Ramirez Galeano
+
 Este proyecto es un sistema de gestión de inventario sencillo implementado en Haskell. Permite registrar productos, buscar productos por categoría, listar todos los productos y contar productos por categoría. El inventario se almacena en un archivo de texto (`inventario.txt`), que se actualiza con cada operación.
 
 ## Requisitos
