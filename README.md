@@ -17,5 +17,15 @@ Antes de comenzar, asegúrate de tener las siguientes herramientas instaladas:
    Clona este repositorio en tu máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/Unbot2313/haskellAdminPractica.git
+   cd haskellAdminPractica
+   ```
+
+   Ejecutalo con los siguientes comandos:
+
+   ```bash
+   cabal build
+   cabal run
+   ```
+
+   recuerda que para la correcta ejecucion no debes abrir el archivo (`inventario.txt`) antes, esto evitara errores al momento de ejecucion 
