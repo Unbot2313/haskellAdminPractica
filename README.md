@@ -20,6 +20,9 @@ Antes de comenzar, asegúrate de tener las siguientes herramientas instaladas:
    git clone https://github.com/Unbot2313/haskellAdminPractica.git
    cd haskellAdminPractica
    ```
+##Ejecucion
+
+2. **Como utilizar el programa:**
 
    Ejecutalo con los siguientes comandos:
 
