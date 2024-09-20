@@ -1,7 +1,14 @@
 # Sistema de Gestión de Inventario en Haskell
 
 ## Integrante: Tomas Ramirez Galeano
-## Hecho con visual studio code and nano
+
+## Videos de explicacion
+
+https://eafit-my.sharepoint.com/:v:/g/personal/tramirezg_eafit_edu_co/EagjySS0EzBOq1UP_LeSVqkB29iC0IzwK7Sj-gvo9zjCYQ?e=EXViOM //Video explicacion ejecucion
+
+https://eafit-my.sharepoint.com/:v:/g/personal/tramirezg_eafit_edu_co/Ef7ex5vOPQBDvlIHXuJexwYBRjzjYkMG0p6wNHUt8liK7Q?e=iSXDw9 //Explicacion codigo de haskell
+
+## Hecho con visual studio code y nano
 
 Este proyecto es un sistema de gestión de inventario sencillo implementado en Haskell. Permite registrar productos, buscar productos por categoría, listar todos los productos y contar productos por categoría. El inventario se almacena en un archivo de texto (`inventario.txt`), que se actualiza con cada operación.
 
